@@ -1,0 +1,13 @@
+site_name: Static Site v2
+site_description: Narrative reflection on the expansion of my digital literacy in WRIT 4662W 
+nav:
+  - Home: index.md
+  - HTML & CSS: HTML & CSS.md
+  - Git & Github: Git & Github.md
+  - Client Project: Client Project.md
+  - Markdown & SSGs: Markdown.md
+  - DITA: DITA XML.md
+  - Contact: Contact.md
+
+theme: readthedocs
+ 

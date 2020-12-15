@@ -1,0 +1,9 @@
+#Git and Github
+
+Before this course, I had never heard of Git or GitHub. From this module I learned that Git is an open-source distributed version control system (DVCS) that allows developers to collaborate on code. Git also allows developers to track changes between versions of code. GitHub is a hosting service that allows developers to store live samples of their code. GitHub pages is a static site hosting service that allows developers to publish their sites. 
+
+I learned that open source code fosters active collaboration that can greatly improve code in a short amount of time. For example, if one person publicly shares their code, another person can clone the repository, fork it and make improvements. Another person can do the same and so on, each contributing their own improvements. By working together from the other developers’ code, better solutions can be produced and more advancements can be made more quickly. 
+
+Git and GitHub are becoming increasingly important in the workflow of technical writers. Therefore, it is important to understand the basics of Git and GitHub and the functionalities it allows technical communicators. I feel that it is important to have at least a basic understanding of version control so that I am able to revise content and track changes within content management systems. During this module I learned how to create a GitHub repository to store my code from the static site v.1 assignment. I learned how to track any changes made to the repository with pull requests and was able to publish my static site. I hope to continue to expand on these skills as I feel they will become very valuable in the workflow of technical writers. 
+
+View my Static Site v.1 **[here](https://nataliegardner.github.io/)**.
